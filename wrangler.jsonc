@@ -1,0 +1,8 @@
+{
+  "name": "cf-main-only",
+  "compatibility_date": "2026-08-27",
+  "main": ".vercel/output/static/_worker.js/index.js",
+  "assets": {
+    "directory": ".vercel/output/static"
+  }
+}
